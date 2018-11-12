@@ -261,7 +261,7 @@ margin: 0;
 text-decoration: none;
 color: black;
 }
-@media screen and (max-width: 1035px) and (min-width: 992px){
+@media screen and (max-width: 1042px) and (min-width: 992px){
 	.navbar-right li a{padding:20px 12px;}
 	.banner .container-fluid{margin: 0;padding: 0;}
 
