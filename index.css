@@ -99,6 +99,9 @@ button.btn.dropdown-toggle:focus {
 	background-color: white;
 	color:#ce0058; 
 }
+button.btn.btn-block:hover, button.btn.btn-block:focus {
+    background-color: #403a60;
+}
 /*_____main page------*/
 .middle {
     margin-top: 60px;
